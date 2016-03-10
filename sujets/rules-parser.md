@@ -33,7 +33,8 @@ par ex.
 
 "B" : [ "B < 3", "B = 1"]
 
-Exemples :
+Exemples
+--------
 
 Entrées :
 
@@ -55,6 +56,9 @@ Entrées :
  - Données : "A" : 1 , "B" : 2 , "C" : 3	
 
 Sortie : "A" : [ "A = 2"], "B" : [ "B = 3"]
+
+Précisions
+----------
 
 Fournissez des tests unitaires écris avec Junit4 pour vérifier votre implémentation. Vous êtes libre d’utiliser la version de JAVA que vous souhaitez, vous pouvez également utilisez un build manager. 
 
